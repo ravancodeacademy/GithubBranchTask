@@ -5,3 +5,7 @@ Group: AB-205
 
 Name: Ravan Alaskarov
 Age: 19
+
+Name:Tagizade Raul
+Age:19
+Group: AB-205
